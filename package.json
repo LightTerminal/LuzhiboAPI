@@ -1,0 +1,12 @@
+{
+  "name": "luzhibo-api",
+  "version": "0.0.0",
+  "description": "LuzhiboAPI",
+  "main": "app.js",
+  "author": {
+    "name": "Baozisoftware"
+  },
+  "dependencies": {
+    "jquery": "^1.6.3"
+  }
+}
